@@ -1,4 +1,4 @@
-<h1 align="center">hello my name is marco</h1>
+<h1 align="center">marco aka cinquina</h1>
 <h3 align="center">20yrs old developer from italy 🍕</h3>
 
 - 🌱 i'm currently learning **html5, css, bootstrap**
