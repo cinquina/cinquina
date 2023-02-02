@@ -1,9 +1,8 @@
 <h1 align="center">hello my name is marco</h1>
 <h3 align="center">20yrs old developer from italy 🍕</h3>
+
 - 🌱 i'm currently learning **html5, css, bootstrap**
-
 - 📫 discord tag **cinquina#1795**
-
 - ⚡ fun fact **im straight**
 
 <h3 align="left">💻 languages</h3>
