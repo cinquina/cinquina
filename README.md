@@ -1,6 +1,6 @@
 <h1 align="center">👋 hello there!</h1>
 
-<p align="center">🚀 welcome to my gitHub profile, pal! im all about programming and tech, rocking skills in Python, Lua, C#, and Java. currently, im diving deep into HTML, CSS, and JavaScript to level up my web development skills. 👀</p>
+<p align="center">🚀 welcome to my github profile, pal! im all about programming and tech, rocking skills in Python, Lua, C#, and Java. currently, im diving deep into HTML, CSS, and JavaScript to level up my web development skills. 👀</p>
 
 <h2 align="center">🌍 Languages</h2>
 
